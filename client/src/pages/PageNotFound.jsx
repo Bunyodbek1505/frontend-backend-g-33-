@@ -4,7 +4,7 @@ import Layout from '../components/layout/layout'
 
 const PageNotFound = () => {
 	return (
-		<Layout title={'go back- page not found'}>
+		<Layout >
 			<div
 				style={{
 					position: 'absolute',
